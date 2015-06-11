@@ -1,0 +1,9 @@
+# Problem Set 0
+# Name: Kenneth
+# Collaborators: N/A
+# Time Spent: 1:30
+
+birthDay = raw_input('Enter your date of birth:')
+name = raw_input('Enter your last name:')
+print name, birthDay
+
