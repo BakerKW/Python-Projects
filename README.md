@@ -1,9 +1,10 @@
 # Python-Projects
-Problems I have solved or are solving using Python.
+Problems I have solved or am solving using Python.
 
 Pset(0)
-status: complete
-problem:Write a program that does the following in order:
+Status: complete
+Problem:
+Write a program that does the following in order:
 Asks the user to enter his/her date of birth.
 Asks the user to enter his/her last name.
 Prints out the user’s last name and date of birth, in that order. 
@@ -16,6 +17,8 @@ Enter your last name:
 Baker 03/23/82
 
 Pset(1)P(1)
+Status:complete
+Problem
 Write a program to calculate the credit card balance after one year if a person only pays the
 minimum monthly payment required by the credit card company each month.
 
